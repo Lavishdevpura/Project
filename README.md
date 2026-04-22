@@ -23,8 +23,6 @@ All processing is dynamic — no hardcoding of layouts, sections, or formats.
 
 ## 📸 Demo
 
-> Add screenshots here (strongly recommended)
-
 ### 📄 Input PDF
 
 <p align="center">
@@ -94,7 +92,7 @@ main.py
 ```
 
 <p align="center">
-  <img src="assets/Flowchart.svg" width="800"/>
+  <img src="assets/ddr_pipeline_flowchart.svg" width="800"/>
 </p>
 
 
