@@ -1,0 +1,21 @@
+# Environment & secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Output files (optional — remove if you want to track these)
+*.json
+*.html
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Data folder
+data/
+
+# Virtual environment
+project
