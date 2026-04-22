@@ -92,7 +92,7 @@ main.py
 ```
 
 <p align="center">
-  <img src="assets/ddr_pipeline_flowchart.svg" width="800"/>
+  <img src="assets/Flowchart.svg" width="800"/>
 </p>
 
 
