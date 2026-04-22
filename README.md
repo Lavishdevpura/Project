@@ -28,16 +28,22 @@ All processing is dynamic — no hardcoding of layouts, sections, or formats.
 ### 📄 Input PDF
 
 <p align="center">
-  <img src="assets/input.png" width="800"/>
+  <img src="assets/Input.png" width="800"/>
 </p>
 
 ### 📊 Generated HTML Report
 
-![Output](assets/output.png)
+<p align="center">
+  <img src="assets/Output.png" width="800"/>
+</p>
+
 
 ### 🔥 Thermal Analysis
 
-![Thermal](assets/thermal.png)
+<p align="center">
+  <img src="assets/Thermal.png" width="800"/>
+</p>
+
 
 ---
 
@@ -87,7 +93,10 @@ main.py
   Final HTML Report
 ```
 
-📌 Full diagram: `ddr_pipeline_flowchart.svg`
+<p align="center">
+  <img src="assets/Flowchart.svg" width="800"/>
+</p>
+
 
 ---
 
